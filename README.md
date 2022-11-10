@@ -1,7 +1,7 @@
 # RESPONSIVIDADE MASTERCLASS 6
 
 
-            ## TELAS
+        
 
 
 <div align="center">
